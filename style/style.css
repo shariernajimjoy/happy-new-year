@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Work Sans';
+}
+
+.box {
+    background-image: url(../images/banner/banner3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 216px 230px 230px 845px;
+    text-align: right;
+}
+
+.b-one {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+
+.b-two {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 24px 0 32px;
+
+}
+
+.b-three {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 20px 25px;
+
+}
+
+/* header end */
+
+/* main part start */
+/* section failures */
+.first-section {
+    margin: 130px 0;
+}
+
+.failures {
+    width: 1172px;
+    margin: auto;
+    display: flex;
+    gap: 87px;
+}
+
+.about {
+    margin-top: 254px;
+    height: 400px;
+    width: 416px;
+}
+
+.about h4 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+
+}
+
+.about h5 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    line-height: 26px;
+    width: 416px;
+
+}
+
+.about p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+.about p>i {
+    margin-right: 10px;
+}
+
+/* section failures end */
+/* section plans part */
+.Plans {
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.Plans h3 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+
+}
+
+.icon {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1140px;
+    margin: auto;
+}
+
+.icon-item h5 {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+    margin: 16px 0;
+}
+
+.icon-item p {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+/* section plans end */
+/* section last-main */
+.last-section {
+    margin-bottom: 130px;
+}
+
+.last-main {
+    background-image: url(../images/watch.png), url(../images/gradient1.png);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.lm-one {
+    padding: 59px 64px;
+}
+
+.last-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+
+}
+
+.last-button {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 20px 36px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 24px;
+
+}
+
+/* section last-main end */
+/* main part end */
+/* footer part */
+.footer {
+    background: #151414;
+    padding: 130px 0;
+
+}
+
+.footer-des {
+    display: flex;
+    justify-content: space-around;
+    width: 1140px;
+    margin: auto;
+    gap: 331px;
+    line-height: 26px;
+}
+
+.Future h4 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.Future p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.img {
+    margin-top: 32px;
+    margin-right: 16px;
+}
+
+.form-con h4 {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.form-box {
+    background: #151414;
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    padding: 21px;
+    border-radius: 8px;
+    margin: 31px 0 16px;
+
+}
+
+.footer-btn {
+    padding: 20px 36px;
+    background: #005FAC;
+    border-radius: 8px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+/* footer end */
